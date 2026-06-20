@@ -9,6 +9,14 @@ This project is a relational database system designed for an e-commerce platform
 To design and implement a scalable relational database that efficiently manages users, products, orders, and order items while maintaining data integrity and relationships.
 
 ---
+## 🛠️ Tech Stack
+
+- **Database:** MySQL
+- **Language:** SQL
+- **Tools:** MySQL Workbench
+- **Version Control:** Git & GitHub
+
+---
 
 ## 🏗 Database Schema Design
 
