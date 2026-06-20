@@ -14,7 +14,6 @@ To design and implement a scalable relational database that efficiently manages 
 - **Database:** MySQL
 - **Language:** SQL
 - **Tools:** MySQL Workbench
-- **Version Control:** Git & GitHub
 
 ---
 
