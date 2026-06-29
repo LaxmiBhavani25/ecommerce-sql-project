@@ -78,3 +78,14 @@ FROM Users u
 JOIN Orders o ON u.user_id = o.user_id
 JOIN Order_items oi ON o.order_id = oi.order_id
 JOIN Products p ON oi.product_id = p.product_id;
+
+SELECT u.first_name, COUNT(o.order_id) AS total_orders
+FROM Users u
+JOIN Orders o ON u.user_id = o.user_id
+GROUP BY u.first_name;
+
+SELECT p.name, SUM(oi.quantity) AS total_sold
+FROM Order_items oi
+JOIN Products p ON oi.product_id = p.product_id
+GROUP BY p.name
+ORDER BY total_sold DESC;
