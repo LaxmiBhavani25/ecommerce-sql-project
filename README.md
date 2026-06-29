@@ -1,12 +1,16 @@
 # 🛒 E-Commerce Database Management System (MySQL)
 
 ## 📌 Overview
-This project is a relational database system designed for an e-commerce platform using MySQL. It demonstrates real-world SQL operations such as joins, subqueries, aggregation, and advanced SQL functions.
+This project is a relational database system designed for an e-commerce platform using MySQL. It demonstrates how data is structured, stored, and analyzed in a real-world scenario.
 
+### Features
+- Designed tables for customers, orders, and products
+- Inserted sample data to simulate real-world transactions
+- Performed SQL operations such as joins, subqueries, and aggregation
 ---
 
 ## 🧠 Objective
-To design and implement a scalable relational database that efficiently manages users, products, orders, and order items while maintaining data integrity and relationships.
+The objective of this project is to design and implement a structured relational database for an e-commerce system and use SQL queries to manage and analyze data effectively. It aims to demonstrate practical understanding of database design, relationships, and data-driven insights.
 
 ---
 ## 🛠️ Tech Stack
