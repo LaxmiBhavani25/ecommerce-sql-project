@@ -7,6 +7,7 @@ This project is a relational database system designed for an e-commerce platform
 - Designed tables for customers, orders, and products
 - Inserted sample data to simulate real-world transactions
 - Performed SQL operations such as joins, subqueries, and aggregation
+- Extracted insights like top-selling products and total orders per user
 ---
 
 ## 🧠 Objective
